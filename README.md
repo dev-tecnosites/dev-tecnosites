@@ -1,4 +1,4 @@
-<!-- FUNDO ANIMADO TIPO CINEMA -->
+<!-- FUNDO ANIMADO TIPO CINEMA --> 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/gradient-animations/gradient-5.gif" width="100%" />
 </div>
@@ -9,7 +9,7 @@
 
 <!-- TÍTULO ANIMADO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Brazilian+Developer;Creative+Mind;Fast+Learner;Building+Modern+Websites;Experimenting+With+AI;Welcome+Here+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Brazilian+Developer;Creative+Mind;Fast+Learner;Building+Modern+Websites;Experimenting+With+AI;Welcome+Here" />
 </div>
 
 <br>
@@ -38,25 +38,32 @@
 
 <br>
 
-<h2 align="center">Minhas Estatísticas do GitHub</h2>
+<!-- AQUI ERA O GITHUB STATS
+     AGORA ENTRA O PAINEL CYBER EXCLUSIVO -->
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=caik-ias&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
-    height="180"
-  />
-</p>
+<h2 align="center">⚡ Sistema Caik: Modo Cibernético</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caik-ias&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
-    height="180"
-  />
-</p>
+<div align="center">
+  <pre style="background:#000000; color:#00f0ff; padding:20px; border-radius:12px; font-size:12px; width:85%; max-width:650px; line-height:1.3; box-shadow:0 0 15px #00f0ff;">
+  ███████╗██╗██╗  ██╗███████╗████████╗██╗███╗   ███╗
+  ██╔════╝██║██║ ██╔╝██╔════╝╚══██╔══╝██║████╗ ████║
+  █████╗  ██║█████╔╝ █████╗     ██║   ██║██╔████╔██║
+  ██╔══╝  ██║██╔═██╗ ██╔══╝     ██║   ██║██║╚██╔╝██║
+  ██║     ██║██║  ██╗███████╗   ██║   ██║██║ ╚═╝ ██║
+  ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝
 
+  Sistema ativo: CAIK V1.0
+  Status: ONLINE
+  Analisando repositórios... OK
+  Gerando interfaces modernas... OK
+  Modos de IA carregados... OK
+  Operando em capacidade máxima.
+  </pre>
 </div>
 
-<h2>🌌 Banner Animado Especial</h2>
+<br><br>
+
+<h2>🌌</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="animation" />
