@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-    <strong>Caik Emanuel</strong> 
+  <strong>Caik Emanuel</strong> 
 </h1>
 
 <!-- TÍTULO ANIMADO -->
@@ -38,32 +38,36 @@
 
 <br>
 
-<!-- AQUI ERA O GITHUB STATS
-     AGORA ENTRA O PAINEL CYBER EXCLUSIVO -->
-
-<h2 align="center">⚡ Sistema Caik: Modo Cibernético</h2>
+<!-- BLOCO SUBSTITUTO DAS ESTATÍSTICAS: CAIK - MODO PROGRAMADO -->
+<h2 align="center">⚡ Caik: Modo Programado</h2>
 
 <div align="center">
-  <pre style="background:#000000; color:#00f0ff; padding:20px; border-radius:12px; font-size:12px; width:85%; max-width:650px; line-height:1.3; box-shadow:0 0 15px #00f0ff;">
-  ███████╗██╗██╗  ██╗███████╗████████╗██╗███╗   ███╗
-  ██╔════╝██║██║ ██╔╝██╔════╝╚══██╔══╝██║████╗ ████║
-  █████╗  ██║█████╔╝ █████╗     ██║   ██║██╔████╔██║
-  ██╔══╝  ██║██╔═██╗ ██╔══╝     ██║   ██║██║╚██╔╝██║
-  ██║     ██║██║  ██╗███████╗   ██║   ██║██║ ╚═╝ ██║
-  ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝
 
-  Sistema ativo: CAIK V1.0
+<pre>
+  ██████╗  █████╗ ██╗  ██╗██╗
+ ██╔════╝ ██╔══██╗██║ ██╔╝██║
+ ██║  ███╗███████║█████╔╝ ██║
+ ██║   ██║██╔══██║██╔═██╗ ██║
+ ╚██████╔╝██║  ██║██║  ██╗██║
+  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+
+  Sistema: CAIK - MODO PROGRAMADO
   Status: ONLINE
-  Analisando repositórios... OK
-  Gerando interfaces modernas... OK
-  Modos de IA carregados... OK
-  Operando em capacidade máxima.
-  </pre>
+  Inicializando camadas de execução...
+  Verificando repositórios locais... OK
+  Compilando pipelines de build... OK
+  Carregando módulos de automação... OK
+  Operação: 100% - Pronto para deploy.
+</pre>
+
+<p style="max-width:700px; color:#8c8c8c;">
+  
+</p>
 </div>
 
 <br><br>
 
-<h2>🌌</h2>
+<h2>🌌 </h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="animation" />
