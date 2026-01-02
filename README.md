@@ -1,4 +1,30 @@
-<!-- 🔧 HABILIDADES E FERRAMENTAS -->
+<!-- FUNDO ANIMADO -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/gradient-animations/gradient-5.gif" width="100%" />
+</div>
+
+<h1 align="center">
+  <strong>pedrocaio</strong>
+</h1>
+
+<!-- TÍTULO ANIMADO -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Brazilian+Developer;Creative+Mind;Fast+Learner;Building+Modern+Websites;Experimenting+With+AI;Welcome+Here" />
+</div>
+
+<br>
+
+<!-- BIO -->
+<p align="center">
+  👋 Hey! I’m <strong>pedrocaio</strong>.<br><br>
+  Developer, creator and explorer of new technologies.<br>
+  I build modern web experiences, custom tools and creative digital solutions.<br>
+  Passionate about clean UI, smooth animations and creative coding.
+</p>
+
+<br>
+
+<!-- HABILIDADES -->
 <h2>🔧 Habilidades e Ferramentas</h2>
 
 <p align="left">
@@ -14,7 +40,7 @@
 
 <br>
 
-<!-- ⚡ PEDROCAIO: MODO PROGRAMADO -->
+<!-- MODO PROGRAMADO -->
 <h2 align="center">⚡ pedrocaio: Modo Programado</h2>
 
 <div align="center">
@@ -34,4 +60,22 @@
  Carregando módulos de automação... OK
  Operação: 100% - Pronto para deploy.
 </pre>
+</div>
+
+<br><br>
+
+<!-- SNAKE -->
+<h2 align="center">🌌 GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<br>
+
+<!-- FRASE FINAL -->
+<h2 align="center">🚀 Always Coding • Always Learning • Always Improving</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1300&color=FF00C8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Feel+free+to+follow+me!;More+cool+projects+coming+soon!" />
 </div>
