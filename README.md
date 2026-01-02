@@ -26,7 +26,7 @@
 <h2>🔧 Habilidades e Ferramentas</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,py,git,github,vscode,bootstrap,tailwind,figma,linux," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,,nodejs,,py,git,github,vscode,bootstrap,tailwind,,linux," />
 </p>
 
 <p>
