@@ -16,7 +16,7 @@
 
 <!-- BIO -->
 <p align="center">
-  I’m Caik Emanuel. Developer, creator and explorer of new technologies.  
+  I’m pedrocaio. Developer, creator and explorer of new technologies.  
   I build modern web experiences, custom tools, unique designs and cool digital ideas.  
   Passion for clean UI, animations, and creative coding.
 </p>
@@ -26,7 +26,7 @@
 <h2>🔧 Habilidades e Ferramentas</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,py,git,github,vscode,bootstrap,tailwind,figma,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,py,git,github,vscode,bootstrap,tailwind,figma,linux," />
 </p>
 
 <p>
@@ -38,7 +38,6 @@
 
 <br>
 
-<!-- BLOCO SUBSTITUTO DAS ESTATÍSTICAS: CAIK - MODO PROGRAMADO -->
 <h2 align="center">⚡ Caik: Modo Programado</h2>
 
 <div align="center">
