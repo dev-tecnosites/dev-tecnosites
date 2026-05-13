@@ -16,7 +16,7 @@
 
 <!-- BIO -->
 <p align="center">
-  👋 Hey! I’m <strong>pedrocaio</strong>.<br><br>
+  👋 Hey! I’m <strong>caikemanuel</strong>.<br><br>
   Developer, creator and explorer of new technologies.<br>
   I build modern web experiences, custom tools and creative digital solutions.<br>
   Passionate about clean UI, smooth animations and creative coding.
