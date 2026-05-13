@@ -41,7 +41,7 @@
 <br>
 
 <!-- MODO PROGRAMADO -->
-<h2 align="center">⚡ pedrocaio: Modo Programado</h2>
+<h2 align="center">⚡ pcaikemanuel: Modo Programado</h2>
 
 <div align="center">
 <pre>
