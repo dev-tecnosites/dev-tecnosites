@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <strong>pedrocaio</strong>
+  <strong>caikemanuel</strong>
 </h1>
 
 <!-- TÍTULO ANIMADO -->
