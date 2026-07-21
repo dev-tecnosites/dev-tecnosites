@@ -49,7 +49,7 @@
 <br>
 
 <!-- FRASE FINAL -->
-<h2 align="center">🚀 Always Coding • Always Learning • Always Improving</h2>
+<h2 align="center"> Deus, guia meus passos, fortalece minha fé e ilumina meu caminho neste novo dia. Amém </h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1300&color=FF00C8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Feel+free+to+follow+me!;More+cool+projects+coming+soon!" />
